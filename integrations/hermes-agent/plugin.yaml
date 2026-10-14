@@ -1,0 +1,9 @@
+name: hakaisatsu
+version: 0.1.0
+description: Skill-only Hakaisatsu plugin. Hermes loads the existing Node diagram skill; render, validate, and deliver still run as node bin/hakaisatsu.mjs. Not an official Nous Research product.
+author: thomasardi
+kind: standalone
+platforms:
+  - linux
+  - macos
+  - windows

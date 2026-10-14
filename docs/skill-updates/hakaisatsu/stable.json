@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "skillId": "hakaisatsu",
+  "channel": "stable",
+  "version": "3.0.1",
+  "publishedAt": "2026-09-28T15:16:27Z",
+  "source": {
+    "repository": "https://github.com/thomasardi/hakaisatsu",
+    "ref": "v3.0.1",
+    "treeSha": "02165dc8303a6e5435568d26f2bc3592ef31f042"
+  },
+  "artifact": {
+    "sha256": "573e586a0738867d46d98398f565da2487fe87178c5933e240d7bf9f5bb2e985"
+  },
+  "summary": "Makes verified stable update reminders part of normal diagram delivery, with repeat notices and explicit snooze or ignore controls.",
+  "releaseNotes": "https://github.com/thomasardi/hakaisatsu/releases/tag/v3.0.1",
+  "severity": "normal"
+}

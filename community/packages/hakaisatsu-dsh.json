@@ -1,0 +1,43 @@
+{
+  "name": "hakaisatsu-dsh",
+  "type": "wrapper",
+  "summary": {
+    "en": "DSH 1.0.0 bundles Hakaisatsu 3.0.1. Supports exact developer-preview DSH 0.1.2-rc.1; independent community Skill-only integration.",
+    "zh": "已发布 DSH 技能包 1.0.0，内含 Hakaisatsu 3.0.1；支持明确测试的开发者预览版 DSH 0.1.2-rc.1，属于独立社区集成。"
+  },
+  "author": {
+    "name": "thomasardi",
+    "url": "https://github.com/thomasardi"
+  },
+  "repository": "https://github.com/thomasardi/hakaisatsu/tree/hakaisatsu-dsh-v1.0.0/integrations/deepseek-harness",
+  "homepage": "https://www.npmjs.com/package/@thomasardi/hakaisatsu-dsh/v/1.0.0",
+  "hakaisatsu": "3.0.1",
+  "schemaVersions": [
+    1,
+    2
+  ],
+  "tags": [
+    "deepseek-harness",
+    "dsh",
+    "npm",
+    "integration"
+  ],
+  "evidence": [
+    {
+      "label": "Published 1.0.0 package guide",
+      "url": "https://github.com/thomasardi/hakaisatsu/blob/hakaisatsu-dsh-v1.0.0/integrations/deepseek-harness/PACKAGE_README.md"
+    },
+    {
+      "label": "Bundled Hakaisatsu 3.0.1 source",
+      "url": "https://github.com/thomasardi/hakaisatsu/blob/7158026e852f3aa6578c741e673b46d7878c92c1/hakaisatsu/package.json"
+    },
+    {
+      "label": "Published 1.0.0 release and tarball checksum",
+      "url": "https://github.com/thomasardi/hakaisatsu/releases/tag/hakaisatsu-dsh-v1.0.0"
+    },
+    {
+      "label": "Three-platform installation and upgrade acceptance",
+      "url": "https://github.com/thomasardi/hakaisatsu/actions/runs/37217119585"
+    }
+  ]
+}

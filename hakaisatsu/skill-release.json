@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "skillId": "hakaisatsu",
+  "channel": "stable",
+  "version": "3.0.1",
+  "source": {
+    "repository": "https://github.com/thomasardi/hakaisatsu"
+  },
+  "updateManifestUrl": "https://thomasardi.github.io/hakaisatsu/skill-updates/hakaisatsu/stable.json"
+}

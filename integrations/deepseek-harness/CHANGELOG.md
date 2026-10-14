@@ -5,7 +5,7 @@ For current publication status, see the [repository integration README](https://
 ## 1.0.0
 
 - First stable adapter contract for the exact tested host `@deepseek-ai/dsh@0.1.2-rc.1`; the host remains a developer preview. Other host versions are not covered by this release claim.
-- Bundles Hakaisatsu 3.0.1 from stable commit `7158026e852f3aa6578c741e673b46d7878c92c1`, including the installation fix after the Hakaisatsu v3.0.1 tag. Hakaisatsu and adapter versions are independent.
+- Bundles Hakaisatsu 3.0.1 from stable commit `8c82161ff27ce2d20a9035f0d1a06e11fd754ceb`, including the installation fix after the Hakaisatsu v3.0.1 tag. Hakaisatsu and adapter versions are independent.
 - Preserves the Skill-only activation contract: one `hakaisatsu-plugin` provider, no native tools, dependencies, install hooks, telemetry, or automatic updates.
 - The release gate covers clean installation and published plugin 0.1.0 → 1.0.0 upgrade, discovery/loading, workspace rendering, and uninstall on Linux, macOS, and Windows. Full example-rewriting smoke runs outside the pnpm store.
 - Hakaisatsu 3.x changes the Viewer and authoring/delivery flow; existing schema-v1 input remains supported. See [Hakaisatsu 3.0 upgrade notes](https://github.com/thomasardi/hakaisatsu/blob/v3.0.1/CHANGELOG.md#upgrading-from-2x). Existing HTML keeps its embedded Viewer.

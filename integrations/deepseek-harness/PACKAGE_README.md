@@ -2,7 +2,7 @@
 
 Community DeepSeek Harness integration for [Hakaisatsu](https://github.com/thomasardi/hakaisatsu). This is **not** an official DeepSeek product and does not imply DeepSeek endorsement.
 
-This package bundles **Hakaisatsu 3.0.1** from stable commit `7158026e852f3aa6578c741e673b46d7878c92c1`, including the installation fix after the `v3.0.1` tag. Both bundled version manifests declare 3.0.1. Adapter and Hakaisatsu versions are independent.
+This package bundles **Hakaisatsu 3.0.1** from stable commit `8c82161ff27ce2d20a9035f0d1a06e11fd754ceb`, including the installation fix after the `v3.0.1` tag. Both bundled version manifests declare 3.0.1. Adapter and Hakaisatsu versions are independent.
 
 The 1.0 adapter contract covers the exact tested developer-preview host **`@deepseek-ai/dsh@0.1.2-rc.1`** and Node.js **`^22.19.0 || >=24.0.0`**. It does not make the host stable or guarantee compatibility with other DSH versions. The release gate exercises clean installation and plugin 0.1.0 → 1.0.0 upgrade on Linux, macOS, and Windows using Node 22.
 
